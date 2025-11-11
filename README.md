@@ -4,7 +4,7 @@ Predicts taste preferences (Sweet, Salty, etc.) using a Decision Tree trained on
 
 # 🍽️ FlavorSense: Taste Preference Prediction with Decision Trees
 
-This project explores how lifestyle and behavioral patterns can be used to predict an individual’s **preferred taste** — Sweet, Salty, Sour, or Spicy — using a **Decision Tree classifier**. It is inspired by the [FlavorSense Decision Tree Taste Predictor](https://www.kaggle.com/code/milapgohil/flavorsense-decision-tree-taste-predictor) project on Kaggle.
+This project explores how lifestyle and behavioral patterns can be used to predict an individual’s **preferred taste** — Sweet, Salty, Sour, or Spicy — using a **Decision Tree classifier**. 
 
 ---
 
